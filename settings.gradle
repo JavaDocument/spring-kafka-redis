@@ -1,0 +1,4 @@
+rootProject.name = 'spring-kafka-redis'
+include 'domain-order-spring'
+include 'domain-item-spring'
+include 'ops-core-server'
